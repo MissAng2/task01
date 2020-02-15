@@ -1,0 +1,11 @@
+.mint-tab-item-label{
+    font-size: 22px; 
+}
+.mint-navbar .mint-tab-item.is-selected{
+    color: #1BB7AB;
+    border-bottom-color: #1BB7AB;
+}
+.mint-search{
+    margin-top: 3px;
+    height: 100%;
+}
